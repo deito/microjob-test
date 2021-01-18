@@ -1,0 +1,16 @@
+{
+  "name": "primes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/primes-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/primes-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "microjob": "^0.7.0"
+  }
+}
